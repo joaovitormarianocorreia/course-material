@@ -18,7 +18,7 @@ This repository contains material from various courses taken over time. The mate
 The repository includes material from the following courses:
 
 1. **Machine Learning A to Z**
-
+2. **Deep Learning A to Z**
 
 ## Usage
 
